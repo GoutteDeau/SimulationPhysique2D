@@ -8,6 +8,14 @@ L'objectif est de simuler le comportement de différents objets dans un environn
 
 Le projet est conçu pour être évolutif : son architecture permet d'ajouter progressivement de nouveaux types d'objets, de nouvelles propriétés physiques et des mécanismes d'interaction plus avancés.
 
+## Aperçu de l'application
+
+Voici quelques démonstration illustrant le fonctionnement de l'application et les possibilités offertes par son interface graphique.
+
+<video controls src="video_exemple.mp4" title="Title"></video>
+
+<video controls src="video_exemple2.mp4" title="Title"></video>
+
 ## Fonctionnalités actuelles
 
 ### Simulation physique
@@ -199,8 +207,3 @@ Ce projet me permet de travailler sur plusieurs aspects du développement logici
 Cette simulation est un projet évolutif dont l'objectif est de construire progressivement un moteur physique 2D modulaire. Les prochaines étapes pourront porter sur l'amélioration des collisions, l'ajout de nouveaux objets et l'enrichissement des outils de contrôle et d'analyse.
 
 Le développement se fait par étapes, avec une attention particulière portée à la compréhension des mécanismes physiques et à la qualité de l'architecture logicielle.
-
-\
-ETIENNE Malo \
-Etudiant ESIR - 2ème année du cycle ingénieur Informatique \
-Option Imagerie Numérique (IN)
