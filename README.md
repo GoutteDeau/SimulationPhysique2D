@@ -12,9 +12,9 @@ Le projet est conçu pour être évolutif : son architecture permet d'ajouter pr
 
 Voici quelques démonstration illustrant le fonctionnement de l'application et les possibilités offertes par son interface graphique.
 
-<video controls src="video_exemple.mp4" title="Title"></video>
+<video controls src="https://github.com/user-attachments/assets/cbca97d6-1cfc-4f82-ac8a-d5b0c1140c8d" title="Démonstration 1"></video>
 
-<video controls src="video_exemple2.mp4" title="Title"></video>
+<video controls src="https://github.com/user-attachments/assets/5ab86ecf-9ef4-433b-a0b1-c41bc6d5221d" title="Démonstration 2"></video>
 
 ## Fonctionnalités actuelles
 
